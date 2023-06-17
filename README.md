@@ -13,6 +13,8 @@ Using Typescript in Next.js this application is a one stop shop for your car ren
 ## Demo
 
 You can test it out [here](https://car-hub-beige.vercel.app/)
+<img width="1468" alt="Screen Shot 2023-06-17 at 2 23 08 AM" src="https://github.com/ParasK02/Car-Hub/assets/90861109/a4f99fbb-c002-4e1f-990f-55df1692cc39">
+
 
 
 ## Notes

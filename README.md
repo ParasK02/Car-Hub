@@ -21,7 +21,5 @@ You can test it out [here](https://car-hub-beige.vercel.app/)
 There is a bug with the current version of Next.js version 13.2.5, where the search functionality resets the screen position. So after a request using the search bar, filters or the show more button the data is loaded however, the screen is reset back to the top. 
 
 
-## Credits
-This application was a project from the course JavaScript Mastery Course by [@adrianhajdin](https://github.com/adrianhajdin).
 
 
